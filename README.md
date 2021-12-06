@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KidusAlemayehu
-- 👀 I’m interested in python , flask and api
+- 👀 I’m interested in python , flask and API
 - 🌱 I’m currently learning api development
 - 💞️ I’m looking to collaborate on api development projects
 - 📫 How to reach me kidusalemayehu705@gmail.com
